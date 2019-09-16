@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1.intro {
+  color: violet;
+}
+
+h1.intro {
+  background-color: blue;
+}
+</style>
+</head>
+<body>
+
+<h1 class="intro">Purple Flowers Assignment</h1> 
+
+
+<iframe src="https://www.bloomsbyheinau.com/Purple-Flowers-Meaning">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+</br></br>
+<nav>
+<a href="/Flower Info/">Flower Info</a> |
+<a href="/Types/">Types</a> |
+<a href="/Colors/">Colors</a> |
+</nav>
+</br></br>
+<form action="/action_page.php">
+   Password: <input type="password" name="pwd" maxlength="8"><br>
+</form>
+
+<div style="background-color:violet">
+<form action="/action_page.php">
+<p>Choose favorite flower:</p>
+  <input type="radio" name="flower type" value="Tulip"> tulip<br>
+  <input type="radio" name="flower type" value="Lily"> lily<br>
+  <input type="radio" name="flower type" value="sunflower"> sunflower<br>  
+  </br></br>
+  
+<iframe width="420" height="345" src="https://www.youtube.com/embed/TvnYmWpD_T8">
+</iframe>
+
+</br></br>
+<p class="p phlow link">Welcome to Phlows Purple Flowers.</p> 
+</br>
+<a href="https://phlowingpurple.s3-us-west-2.amazonaws.com/index.html+p">Visit phlow purple flowers</a>
+<a href="pages/index.html purple"></a>
+</br></br>
+</body>
+</html>
